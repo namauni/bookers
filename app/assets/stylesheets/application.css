@@ -18,3 +18,19 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  font-size: 13px;
+  margin: 33px;
+  line-height: 18px;
+}
+
+p{
+  font-size: 13px;
+  margin: 33px;
+  line-height: 18px;
+}
+
+#notice{
+  color: green;
+}
